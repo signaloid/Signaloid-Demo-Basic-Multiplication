@@ -1,6 +1,6 @@
 /*
  *	Authored 2020, James Timothy Meech.
- *	Authored 2021, Phillip Stanley-Marbell.
+ *	Authored 2021, Phillip Stanley-Marbell, Orestis Kaparounakis.
  *
  *	All rights reserved.
  *
@@ -177,7 +177,7 @@ main(int argc, char *  argv[])
 		/*
 		 *	Uncertainty Tracking computation
 		 */
-		printf("Implicit computation of A*B...\n");
+		printf("Implicit computation of A*B\n");
 		/*
 		 *	Load samples into distributional double variables.
 		 */
